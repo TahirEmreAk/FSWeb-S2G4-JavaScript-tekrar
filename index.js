@@ -93,7 +93,7 @@ console.log(CemberinAlani(15, pi));
 
 let ucetambolunenler = [],
   enkucuk = sayilar[0],
-  enbuyuk = 0,
+  enbuyuk = -Infinity,
   ucebolunenlerintoplami,
   besyuzdenkucuksayilar = [],
   siralisayilar = [],
